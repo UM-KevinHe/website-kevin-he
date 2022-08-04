@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkevin_website=self.webpackChunkkevin_website||[]).push([[218],{6065:function(e){e.exports=JSON.parse('{"allTagsPath":"/website-kevin-he/blog/tags","slug":"/website-kevin-he/blog/tags/hola","name":"hola","count":1,"permalink":"/website-kevin-he/blog/tags/hola"}')}}]);

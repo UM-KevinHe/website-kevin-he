@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkevin_website=self.webpackChunkkevin_website||[]).push([[280],{6467:function(e){e.exports=JSON.parse('{"allTagsPath":"/website-kevin-he/blog/tags","slug":"/website-kevin-he/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/website-kevin-he/blog/tags/docusaurus"}')}}]);
